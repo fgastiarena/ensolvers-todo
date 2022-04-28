@@ -6,5 +6,5 @@
 
 ### 2 · Once all the dependencies are installed, run the app
 
-#### `npm install                                                                                                  `
+#### `npm start                                                                                                  `
 
